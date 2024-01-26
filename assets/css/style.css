@@ -83,3 +83,12 @@ body{
     font-weight: 700;
     line-height: 20px;
 }
+
+.container-text-4{
+    width: 75px;
+    height: 20px;
+    color: #9DAEC2;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px; 
+}
