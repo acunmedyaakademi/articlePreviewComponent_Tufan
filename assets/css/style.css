@@ -46,3 +46,12 @@ body{
     font-weight: 700;
     line-height: 28px;
 }
+
+.container-text-2{
+    width: 365px;
+    height: 60px;
+    color: #48556A;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px;
+}
