@@ -60,3 +60,7 @@ body{
     width: 365px;
     height: 40px;
 }
+
+.container-oval{
+    position: absolute;
+}
