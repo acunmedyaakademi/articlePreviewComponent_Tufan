@@ -30,3 +30,10 @@ body{
 .container-group6 img{
     border-radius: 10px 0px 0px 10px;
 }
+
+.container-group5{
+    width: 365px;
+    height: 216px;
+    float: right;
+    margin: 32px 40px;
+}
