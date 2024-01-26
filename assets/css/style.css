@@ -26,3 +26,7 @@ body{
     background: #FFF;
     box-shadow: 0px 40px 40px -10px #c9d5e180;
 }
+
+.container-group6 img{
+    border-radius: 10px 0px 0px 10px;
+}
