@@ -74,3 +74,12 @@ body{
     height: 40px;
     margin: 20px 56px;
 }
+
+.container-text-3{
+    width: 116px;
+    height: 20px;
+    color: #48556A;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+}
