@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family: "Manrope";
+    background: #6e7174;
+    padding: 50px;
+}
