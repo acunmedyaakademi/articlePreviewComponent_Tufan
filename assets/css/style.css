@@ -68,3 +68,9 @@ body{
 .container-export{
     float: right;
 }
+
+.container-group{
+    width: 116px;
+    height: 40px;
+    margin: 20px 56px;
+}
