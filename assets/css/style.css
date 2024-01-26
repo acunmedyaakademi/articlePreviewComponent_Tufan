@@ -37,3 +37,12 @@ body{
     float: right;
     margin: 32px 40px;
 }
+
+.container-text-1{
+    width: 365px;
+    height: 84px;
+    color: #48556A;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+}
